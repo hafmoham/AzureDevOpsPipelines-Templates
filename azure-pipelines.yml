@@ -3,7 +3,7 @@ trigger:
 
 variables:
   backendServiceArm: 'as-serv-connection'
-  backendAzureRmResourceGroupName: 'rg-tfstate'
+  backendAzureRmResourceGroupName: 'rg-devops-tfstate'
   backendAzureRmStorageAccountName: 'terraform0tfstate0'
   backendAzureRmContainerName: 'tfstate'
   location: 'westeurope'
